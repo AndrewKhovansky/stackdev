@@ -1,7 +1,7 @@
 # stackdev
 Simple Linux kernel module
 
-Sumulates the character device, that has a stack-organized memory.
+Simulates the character device, which has a stack-organized memory.
 
 Stack can hold up to 16 INT values 
 
