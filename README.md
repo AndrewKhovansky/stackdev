@@ -9,8 +9,8 @@ Return codes:
 -ENOMEM when full   
 -EINVAL when empty  
 -ENOSYS when read/write size is not a multiple of INT size (4)  
-
-stackdev.c - source code
+  
+stackdev.c - source code  
 test_read_write.c - test program
 
 
